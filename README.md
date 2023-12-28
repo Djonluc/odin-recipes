@@ -1,5 +1,5 @@
 # odin-recipes
 
-This ia practice tutorial 
+This ia practice tutorial
 
-Will update more as I go along 
+Will update more as I go along
