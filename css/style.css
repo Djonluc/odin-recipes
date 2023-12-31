@@ -8,11 +8,22 @@
   border: 2px solid rgb(32, 218, 218);
   width: 50%;
   font: 3rem;
-  margin: 1.5rem;
-  padding: 1.5rem;
+  margin: 1.3rem;
+  padding: 1.3rem;
 }
 h1 {
   color: goldenrod;
+}
+
+.Pkingcrab {
+  border: 50px;
+  margin: 1.3rem;
+  padding: 1.3;
+}
+.Pbluecheese {
+  border: 50px;
+  margin: 1.1rem;
+  padding: 1.1;
 }
 
 p {
